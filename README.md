@@ -22,6 +22,8 @@ When a new image is given as input, the system processes it and predicts the ani
 
 
 ## 📸 Demo
+Real-time animal identification output:
+
 ![Demo](animalsoutput.png)
 
 
